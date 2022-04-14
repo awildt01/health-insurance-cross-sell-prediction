@@ -1,5 +1,4 @@
 # health-insurance-cross-sell-prediction
-Projekt 
 ![kisspng2](https://user-images.githubusercontent.com/18030121/163382972-2b551d04-8c61-4461-b797-4ef9ed3a1dc5.jpg)
 
 Dieses Projekt wurde in einen Team aus Brasilien realisiert, die Gruppe ist entstanden aus der Plattform Stackacademy- . In diesen Projekt geht es um eine  Versicherungsgesellschaft, die ihren Kunden eine Krankenversicherung angeboten hat. Jetzt benötigen sie Ihre Hilfe bei der Erstellung eines Modells, um vorherzusagen,
