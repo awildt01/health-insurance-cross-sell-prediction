@@ -14,7 +14,7 @@ ob die Versicherungsnehmer (Kunden) des letzten Jahres auch an der von der Gesel
 
 Zeitraum 3/2022 – 4/2022
 
-Einsatz al: Data Science
+Einsatz als: Data Science
 
 Technologie:
 
